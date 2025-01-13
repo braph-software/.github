@@ -8,7 +8,7 @@ BRAPH is a revolutionary software tailored for connectivity analysis of brain ne
 
 🔗 [Explore BRAPH Repository](https://github.com/braph-software/BRAPH)
 
-## 🧠 BRAPH 2 (Multilayer Network Analysis and Deep Learning)
+## 🧠 BRAPH 2 (Neuroscience Analysis Pipelines, Multilayer Network Analysis and Deep Learning)
 
 Evolving from the foundation laid by BRAPH, **BRAPH 2** brings forth a series of enhancements, new modules, and refined features. It is crafted meticulously to meet the needs of modern neuroscience research.
 
